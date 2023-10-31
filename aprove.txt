@@ -1,0 +1,1 @@
+unameresultsystem=Windowsnode=WALTONrelease=10version=10-0-22621machine=AMD64Windows-10-10-0-22621-SP0AMD64Intel64Family6Model142Stepping12GenuineIntelsvmemtotal=8364478464available=1100808192percent=86-8used=7263670272free=1100808192sdiskusagetotal=333399977984used=1401073664free=331998904320percent=0-41100808192
