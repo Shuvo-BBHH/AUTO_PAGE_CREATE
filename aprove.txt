@@ -2,4 +2,4 @@
 4-physical-8-logical-unameresultsystem=Windows-node=WALTON-release=10-version=10.0.22621-machine=AMD64Windows-10-10.0.22621-SP0AMD64Intel64-Family-6-Model-142-Stepping-12-GenuineIntel
 2-physical-4-logical-unameresultsystem=Linux-node=blue-liveconsole11-release=5.15.0-1044-aws-version=49~20.04.1-Ubuntu-SMP-Mon-Aug-21-170932-UTC-2023-machine=x8664Linux-5.15.0-1044-aws-x8664-with-glibc2.31x8664x8664
 
-2-physical-4-logical-unameresultsystem=Linux-node=blue-liveconsole3-release=5.15.0-1044-aws-version=49~20.04.1-Ubuntu-SMP-Mon-Aug-21-170932-UTC-2023-machine=x8664Linux-5.15.0-1044-aws-x8664-with-glibc2.31x8664x8664
+2-physical-4-logical-unameresultsystem=Linux-node=blue-liveconsole7-release=5.15.0-1044-aws-version=49~20.04.1-Ubuntu-SMP-Mon-Aug-21-170932-UTC-2023-machine=x8664Linux-5.15.0-1044-aws-x8664-with-glibc2.31x8664x8664
